@@ -1,3 +1,0 @@
-Hello All, this is DevOps course and we are learning GIT.
-GIT is Distributed version control system.
-GIT is very powerfull tool in this category...
